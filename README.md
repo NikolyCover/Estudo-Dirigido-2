@@ -42,6 +42,7 @@ letras minúsculas.
 
 8. Implemente uma função que recebe as três valores inteiros, e usando a formula de Bhaskara
 calcule uma esquação do segundo grau. Sua função deve:
+
 a. Mostrar x’e x’’ como resultado;
 
 b. Caso o delta seja um valor negativo exiba a frase: não é possível realizar essa operação
